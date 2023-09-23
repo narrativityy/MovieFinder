@@ -1,0 +1,36 @@
+body {
+    margin: 0px 10%;
+}
+
+img {
+    border: 5px solid #00BFFF;
+    border-radius: 5%;
+    height: 100%;
+    width: 100%;
+    max-height: 500px;
+    max-width: 350px;
+}
+
+h1 {
+    color: #00BFFF;
+}
+
+h3 {
+    color: #00BFFF;
+    line-height: 1.5;
+}
+
+input {
+    color: white;
+    border: solid #00BFFF 2px;
+    border-radius: 9%;
+    text-align: center;
+}
+
+.movieInfo {
+    color: white;
+}
+
+a {
+    color: white;
+}
